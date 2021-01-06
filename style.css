@@ -499,17 +499,19 @@ p{
 @media (min-width: 768px){
 
     
+ 
+    
     a{
-        font-size: 1.5rem;
+        font-size: 1.2rem;
     }
 
     h1{
-        font-size: 48px;
+        font-size: 36px;
         text-align: left;
     }
 
     p{
-        font-size: 20px;
+        font-size: 18px;
     }
 
 
@@ -541,7 +543,7 @@ p{
     }
 
     #hero .hero-text h1{
-        font-size: 96px;
+        font-size: 48px;
     }
     
     #hero .hero-text p{
