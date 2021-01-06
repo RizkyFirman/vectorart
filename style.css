@@ -81,9 +81,12 @@ ul li{
     z-index: 1000;
 }
 
-#header .hbtn .navbar-btn i{
+#header .hbtn .navbar-btn a, #header .hbtn .navbar-btn i{
     display: inline;
     color: var(--primary-color);
+    font-family: var(--primary-font);
+    font-size: 30px;
+    text-decoration: none;
 }
 
 #header .navbar-btn{
